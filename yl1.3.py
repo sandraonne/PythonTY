@@ -1,0 +1,5 @@
+print("Sisestage astme alus:")
+alus = int(input())
+print("Sisestage astendaja:")
+astendaja = int(input())
+print(alus ** astendaja)
